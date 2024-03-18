@@ -1,0 +1,14 @@
+C:\Users\davib\aula2\bin\Debug\net8.0\aula2.exe
+C:\Users\davib\aula2\bin\Debug\net8.0\aula2.deps.json
+C:\Users\davib\aula2\bin\Debug\net8.0\aula2.runtimeconfig.json
+C:\Users\davib\aula2\bin\Debug\net8.0\aula2.dll
+C:\Users\davib\aula2\bin\Debug\net8.0\aula2.pdb
+C:\Users\davib\aula2\obj\Debug\net8.0\aula2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davib\aula2\obj\Debug\net8.0\aula2.AssemblyInfoInputs.cache
+C:\Users\davib\aula2\obj\Debug\net8.0\aula2.AssemblyInfo.cs
+C:\Users\davib\aula2\obj\Debug\net8.0\aula2.csproj.CoreCompileInputs.cache
+C:\Users\davib\aula2\obj\Debug\net8.0\aula2.dll
+C:\Users\davib\aula2\obj\Debug\net8.0\refint\aula2.dll
+C:\Users\davib\aula2\obj\Debug\net8.0\aula2.pdb
+C:\Users\davib\aula2\obj\Debug\net8.0\aula2.genruntimeconfig.cache
+C:\Users\davib\aula2\obj\Debug\net8.0\ref\aula2.dll
